@@ -15,16 +15,11 @@
   .display-4 {
     padding-top: 80px;
   }
-  /* .jumbotron {
+  .jumbotron {
     background-image: url("bg.png");
     background-repeat: no-repeat;
     background-size: cover;
-  } */
+  }
   li {
     list-style: none;
-  }
-  #header {
-    background-image: url("bg.png");
-    background-repeat: no-repeat;
-    background-size: cover;
   }
