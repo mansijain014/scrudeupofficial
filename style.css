@@ -24,8 +24,10 @@
     list-style: none;
   }
   #header {
-    padding-top: 15px;  
     background-image: url("bg.png");
     background-repeat: no-repeat;
     background-size: cover;
+  }
+  .navbar {
+      padding-bottom: 15px;
   }
