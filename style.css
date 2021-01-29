@@ -1,0 +1,27 @@
+.about_me {
+    text-align: center;
+  }
+  
+  .row {
+    padding-left: 100px;
+    padding-top: 30px;
+  }
+  .fas fa-arrow-circle-down {
+    color: black;
+    font-size: 1.5 em;
+  }
+  #projectsCarousel {
+    margin-top: 35px;
+  }
+  .display-4 {
+    padding-top: 80px;
+  }
+  .jumbotron {
+    background-image: url("https://images.unsplash.com/photo-1595012651352-9b39b99c341b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80");
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  li {
+    list-style: none;
+  }
+  
