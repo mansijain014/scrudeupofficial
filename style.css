@@ -16,9 +16,7 @@
     padding-top: 80px;
   }
   .jumbotron {
-    background-image: url("bg.png");
-    background-repeat: no-repeat;
-    background-size: cover;
+    background-color: white;
   }
   li {
     list-style: none;
